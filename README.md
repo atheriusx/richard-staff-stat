@@ -13,3 +13,9 @@ Yardımları için [Thâns](https://github.com/ThansEX)'a teşekkür ediyorum.
 # Kurulum Nasıl Yapılır?
 - yapımda
 # Bot İçeriğine Ait Resimler
+
+## Etkinlik Sistemi
+![Discord_6mmORSTUSt](https://user-images.githubusercontent.com/97298322/149664775-f497b03f-59a2-49de-b2b8-b89f39b70bd9.png)
+![OqIXa1naby](https://user-images.githubusercontent.com/97298322/149664781-fc31bb6c-7dcb-4e47-a867-f6231b6fe63b.png)
+![Discord_X9UG9714au](https://user-images.githubusercontent.com/97298322/149664780-7d5b8de3-460f-43b5-acf5-34a564c7a375.png)
+![skmd5iXWxs](https://user-images.githubusercontent.com/97298322/149664786-15139ade-a084-4f74-be15-44fe0c9291ec.png)
