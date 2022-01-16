@@ -17,5 +17,5 @@ Yardımları için [Thâns](https://github.com/ThansEX)'a teşekkür ediyorum.
 ## Etkinlik Sistemi
 ![Discord_6mmORSTUSt](https://user-images.githubusercontent.com/97298322/149664775-f497b03f-59a2-49de-b2b8-b89f39b70bd9.png)
 ![OqIXa1naby](https://user-images.githubusercontent.com/97298322/149664781-fc31bb6c-7dcb-4e47-a867-f6231b6fe63b.png)
-![Discord_X9UG9714au](https://user-images.githubusercontent.com/97298322/149664780-7d5b8de3-460f-43b5-acf5-34a564c7a375.png)
+![Discord_77n80z7p7O](https://user-images.githubusercontent.com/97298322/149665276-df3a4b49-a2dd-4c41-a644-52044d1b2897.png)
 ![Discord_rPPkwiRYRv](https://user-images.githubusercontent.com/97298322/149665218-99fb17c1-da81-4d56-9efb-4ec392daea8b.png)
