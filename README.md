@@ -14,6 +14,11 @@ Yardımları için [Thâns](https://github.com/ThansEX)'a teşekkür ediyorum.
 - yapımda
 # Bot İçeriğine Ait Resimler
 
+## İstatistik Sistemi
+![Ky9scLMywd](https://user-images.githubusercontent.com/97298322/149819598-fc847ed9-e4a5-41b4-ac74-81260b471d1f.png)
+![G35YpiTRk2](https://user-images.githubusercontent.com/97298322/149819589-34af3437-2615-4c31-bdfe-1521f6f0d0b3.png)
+![iC8gK7pZA6](https://user-images.githubusercontent.com/97298322/149819579-40a18333-5c0b-4b08-a312-1226abc4af40.png)
+
 ## Etkinlik Sistemi
 ![Discord_6mmORSTUSt](https://user-images.githubusercontent.com/97298322/149664775-f497b03f-59a2-49de-b2b8-b89f39b70bd9.png)
 ![wA7oq8Gnq9](https://user-images.githubusercontent.com/97298322/149818657-098b80a8-81bc-4855-a1b2-0af2b31cdb97.png)
