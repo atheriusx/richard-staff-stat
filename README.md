@@ -19,6 +19,10 @@ Yardımları için [Thâns](https://github.com/ThansEX)'a teşekkür ediyorum.
 ![G35YpiTRk2](https://user-images.githubusercontent.com/97298322/149819589-34af3437-2615-4c31-bdfe-1521f6f0d0b3.png)
 ![iC8gK7pZA6](https://user-images.githubusercontent.com/97298322/149819579-40a18333-5c0b-4b08-a312-1226abc4af40.png)
 
+## Görev Verme Sistemi
+![Discord_8gXnrJRsf2](https://user-images.githubusercontent.com/97298322/149823839-9e225b7e-aa3f-4129-a192-b3ff5b5d2414.png)
+![JSRorb1cUU](https://user-images.githubusercontent.com/97298322/149824150-58da0126-2f4c-4306-896d-f65ebd8e28c3.png)
+
 ## Etkinlik Sistemi
 ![Discord_6mmORSTUSt](https://user-images.githubusercontent.com/97298322/149664775-f497b03f-59a2-49de-b2b8-b89f39b70bd9.png)
 ![wA7oq8Gnq9](https://user-images.githubusercontent.com/97298322/149818657-098b80a8-81bc-4855-a1b2-0af2b31cdb97.png)
